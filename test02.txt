@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Chào mừng đến với thế giới của tôi</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f0f2f5;
+      color: #333;
+      text-align: center;
+      padding: 50px;
+    }
+    h1 {
+      color: #007acc;
+    }
+    button {
+      padding: 10px 20px;
+      font-size: 16px;
+      background-color: #28a745;
+      color: white;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+    }
+    button:hover {
+      background-color: #218838;
+    }
+    img {
+      max-width: 100%;
+      height: auto;
+      border-radius: 12px;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Xin chào!</h1>
+  <p>Kỹ Sư Chung Lê<p>
+  <p>Nhận Tư Vấn & Thiết Kế Hệ Thống MEPF.</p>
+  <button onclick="alert('Cảm ơn bạn đã ghé thăm!')">Nhấn vào đây</button>
+
+  <p><img src="https://scontent.fsgn20-1.fna.fbcdn.net/v/t39.30808-6/467721971_8773903529390025_6807905173986077785_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_ohc=r4qttZJm1AcQ7kNvwE_gPO0&_nc_oc=AdkT0kXooGA1QEz8CrOnhNT9egskzxIK1DtzHpMFvQtD0kUEmpVCiNgIi-BBXo04FUs&_nc_zt=23&_nc_ht=scontent.fsgn20-1.fna&_nc_gid=tYUxD09r0-CelTAtUtNW2w&oh=00_AfEEKK1E3DnCLZSjctoEyDbgmjbPX-RYhEjGjxkwf-0v2A&oe=680BD5F7"width="200" height="260" alt="Nhận Thiết Kế Hệ Thống MEPF"><p>
+<p>Contact:</p>
+<p>Phone:0901 29 29 04.</p>
+<p>Mail:canhchung110896@gmail.com.</p>
+<a href="https://www.facebook.com/chung.le.92560/">Facebook</a>
+
+</body>
+</html>
